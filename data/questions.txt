@@ -1,0 +1,15 @@
+Votre personnage fait-il de la politique ?
+Votre personnage est-il un homme ?
+Connaissez-vous votre personnage personnellement ?
+Votre personnage est-il enseignant ?
+Votre personnage est-il un acteur ?
+Votre personnage est-il blond ?
+Votre personnage est-il fictif ?
+Votre personnage a-t-il eu une marionnette aux guignols de l'info ?
+Votre personnage est-il un animal ?
+Votre personnage a-t-il les cheveux longs ?
+Votre personnage est-t-il grand ?
+Votre personnage est-t-il un Pokemon ?
+Votre personnage est-t-il un voleur ?
+Votre personnage est-il de couleur jaune ?
+Votre personnage est-il mignon ?

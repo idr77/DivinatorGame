@@ -1,0 +1,432 @@
+------------------------------------------------------------------------
+r106 | cnoel | 2015-01-12 00:50:55 +0100 (lun. 12 janv. 2015) | 1 ligne
+
+Completed !
+------------------------------------------------------------------------
+r105 | ediall02 | 2015-01-12 00:50:34 +0100 (lun. 12 janv. 2015) | 1 ligne
+
+Documentation added.
+------------------------------------------------------------------------
+r104 | ediall02 | 2015-01-12 00:39:13 +0100 (lun. 12 janv. 2015) | 1 ligne
+
+Update files at the correct format for doxygen.
+------------------------------------------------------------------------
+r103 | cnoel | 2015-01-12 00:31:06 +0100 (lun. 12 janv. 2015) | 1 ligne
+
+Remove double-linked list corruption.
+------------------------------------------------------------------------
+r102 | cnoel | 2015-01-12 00:08:52 +0100 (lun. 12 janv. 2015) | 1 ligne
+
+Debug GUI (ter).
+------------------------------------------------------------------------
+r101 | cnoel | 2015-01-11 23:54:52 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Debug GUI (bis).
+------------------------------------------------------------------------
+r100 | cnoel | 2015-01-11 23:51:41 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Debug GUI.
+------------------------------------------------------------------------
+r99 | ediall02 | 2015-01-11 23:23:26 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Using polling event instead of waiting events for Input boxes.
+------------------------------------------------------------------------
+r98 | cnoel | 2015-01-11 23:18:41 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Secure GUI_getMouseClick.
+------------------------------------------------------------------------
+r97 | cnoel | 2015-01-11 23:08:34 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Add report.
+------------------------------------------------------------------------
+r96 | cnoel | 2015-01-11 21:48:24 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Add last answer when adding a character to DB.
+------------------------------------------------------------------------
+r95 | cnoel | 2015-01-11 21:26:11 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Update of the character's answers when unknown.
+------------------------------------------------------------------------
+r94 | cnoel | 2015-01-11 20:52:33 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Addition of addDataToBaseScreen.
+------------------------------------------------------------------------
+r93 | ediall02 | 2015-01-11 20:05:04 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Reduce function GUI_displayAddQuestionWindow() .
+------------------------------------------------------------------------
+r92 | ediall02 | 2015-01-11 19:37:33 +0100 (dim. 11 janv. 2015) | 2 lignes
+
+Addition of Yes/No buttons resources (Forgot to add .. )
+.
+------------------------------------------------------------------------
+r91 | cnoel | 2015-01-11 19:33:02 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Add the learning process.
+------------------------------------------------------------------------
+r90 | cnoel | 2015-01-11 18:28:33 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Debug DBManager.
+------------------------------------------------------------------------
+r89 | cnoel | 2015-01-11 18:01:01 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Remove DBManager prefixes (bis).
+------------------------------------------------------------------------
+r88 | cnoel | 2015-01-11 17:56:46 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Remove DBManager prefixes.
+------------------------------------------------------------------------
+r87 | cnoel | 2015-01-11 17:55:12 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Lighten DBManager + add 0 at end of population.txt's lines when adding a question.
+------------------------------------------------------------------------
+r86 | ediall02 | 2015-01-11 17:05:44 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+DBManager.c : Correct an error.
+------------------------------------------------------------------------
+r85 | ediall02 | 2015-01-11 16:56:53 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+GUI.c : displayYesNoButtons() -> GUI_refresh() added (I forgot..) 
+------------------------------------------------------------------------
+r84 | ediall02 | 2015-01-11 16:51:18 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Addition of resources yesButton and noButton, with their managements. 
+------------------------------------------------------------------------
+r83 | cnoel | 2015-01-11 15:20:20 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+Game structure made.
+------------------------------------------------------------------------
+r82 | ediall02 | 2015-01-11 00:08:17 +0100 (dim. 11 janv. 2015) | 1 ligne
+
+DBManager building.
+------------------------------------------------------------------------
+r81 | cnoel | 2015-01-10 21:49:24 +0100 (sam. 10 janv. 2015) | 1 ligne
+
+Add answer field to Question.
+------------------------------------------------------------------------
+r80 | ediall02 | 2015-01-10 21:45:18 +0100 (sam. 10 janv. 2015) | 1 ligne
+
+Add some functions in some files.
+------------------------------------------------------------------------
+r79 | ediall02 | 2015-01-10 20:59:44 +0100 (sam. 10 janv. 2015) | 1 ligne
+
+Addition of files DBManager.c and DBManager.h .
+------------------------------------------------------------------------
+r78 | ediall02 | 2015-01-10 20:36:23 +0100 (sam. 10 janv. 2015) | 1 ligne
+
+GUI_displayAddQuestionWindow debugged.
+------------------------------------------------------------------------
+r77 | ediall02 | 2015-01-10 19:53:25 +0100 (sam. 10 janv. 2015) | 3 lignes
+
+String.c : Added a function which inserts a character at a given index.
+GUI.c : Formatting the question's text for a correct displaying.
+
+------------------------------------------------------------------------
+r76 | cnoel | 2015-01-09 23:12:04 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Addition of .txt files + GUI_components.h (forgot it... T.T).
+------------------------------------------------------------------------
+r75 | cnoel | 2015-01-09 22:31:18 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Set GUI::resources as a static array.
+------------------------------------------------------------------------
+r74 | cnoel | 2015-01-09 22:23:25 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Move image paths in GUI_components.h.
+------------------------------------------------------------------------
+r73 | cnoel | 2015-01-09 22:13:51 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Using event polling instead of event waiting.
+------------------------------------------------------------------------
+r72 | cnoel | 2015-01-09 21:55:05 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Hide GUI fonctionment.
+------------------------------------------------------------------------
+r71 | cnoel | 2015-01-09 21:22:14 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Addition of the execute_at_exit() function.
+------------------------------------------------------------------------
+r70 | ediall02 | 2015-01-09 21:16:01 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Main.c : GUI testing.
+------------------------------------------------------------------------
+r69 | ediall02 | 2015-01-09 21:11:42 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Change bubble's coordinates.
+------------------------------------------------------------------------
+r68 | cnoel | 2015-01-09 21:09:26 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Pretty main !
+------------------------------------------------------------------------
+r67 | ediall02 | 2015-01-09 21:08:02 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Removed exit() ^^ .
+------------------------------------------------------------------------
+r66 | ediall02 | 2015-01-09 21:06:33 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Buttons working, game structure working correctly.
+------------------------------------------------------------------------
+r65 | ediall02 | 2015-01-09 21:02:14 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Added button resources.
+------------------------------------------------------------------------
+r64 | cnoel | 2015-01-09 20:57:04 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Update main() using button support.
+------------------------------------------------------------------------
+r63 | cnoel | 2015-01-09 20:53:46 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Addition of a Button support.
+------------------------------------------------------------------------
+r62 | ediall02 | 2015-01-09 20:41:54 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Bubble resource added, devin.svg resource removed and replaced by devin.png .
+------------------------------------------------------------------------
+r61 | cnoel | 2015-01-09 19:47:46 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Remove GUI::nbResources field.
+------------------------------------------------------------------------
+r60 | ediall02 | 2015-01-09 19:43:56 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Answer resource updated.
+------------------------------------------------------------------------
+r59 | ediall02 | 2015-01-09 19:31:37 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Answers resource added.
+------------------------------------------------------------------------
+r58 | cnoel | 2015-01-09 19:30:44 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Remove some compilation errors in GUI.
+------------------------------------------------------------------------
+r57 | cnoel | 2015-01-09 19:14:05 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Remove unnecessary tests in GUI.c.
+------------------------------------------------------------------------
+r56 | ediall02 | 2015-01-09 19:10:35 +0100 (ven. 09 janv. 2015) | 1 ligne
+
+Updated resources.
+------------------------------------------------------------------------
+r55 | ediall02 | 2015-01-03 03:57:46 +0100 (sam. 03 janv. 2015) | 1 ligne
+
+GUI.c: Correction of some errors.
+------------------------------------------------------------------------
+r54 | ediall02 | 2015-01-03 03:48:12 +0100 (sam. 03 janv. 2015) | 1 ligne
+
+Function GUI_clear added.
+------------------------------------------------------------------------
+r53 | ediall02 | 2015-01-03 03:20:32 +0100 (sam. 03 janv. 2015) | 1 ligne
+
+Devin resource (temporary) added.
+------------------------------------------------------------------------
+r52 | ediall02 | 2015-01-03 03:08:02 +0100 (sam. 03 janv. 2015) | 2 lignes
+
+Menu resource added
+.
+------------------------------------------------------------------------
+r51 | ediall02 | 2015-01-03 01:51:53 +0100 (sam. 03 janv. 2015) | 1 ligne
+
+Background resource added.
+------------------------------------------------------------------------
+r50 | ediall02 | 2015-01-02 05:58:41 +0100 (ven. 02 janv. 2015) | 3 lignes
+
+Addition of all files (deleted following an incorrect operation..).
+
+
+------------------------------------------------------------------------
+r49 | ediall02 | 2015-01-02 05:52:20 +0100 (ven. 02 janv. 2015) | 1 ligne
+
+File .c4droid deleted.
+------------------------------------------------------------------------
+r48 | ediall02 | 2014-12-30 18:32:40 +0100 (mar. 30 déc. 2014) | 1 ligne
+
+Function GUI_clear added.
+------------------------------------------------------------------------
+r47 | ediall02 | 2014-12-28 19:10:26 +0100 (dim. 28 déc. 2014) | 1 ligne
+
+GUI.c : Correction of an error.
+------------------------------------------------------------------------
+r46 | ediall02 | 2014-12-28 16:41:37 +0100 (dim. 28 déc. 2014) | 1 ligne
+
+GUI.h : Debugging files.
+------------------------------------------------------------------------
+r45 | ediall02 | 2014-12-28 16:11:26 +0100 (dim. 28 déc. 2014) | 1 ligne
+
+GUI.c : Addition of function GUI_displayAddFunctionWindow() and debugging other functions.
+------------------------------------------------------------------------
+r44 | ediall02 | 2014-12-28 13:44:42 +0100 (dim. 28 déc. 2014) | 1 ligne
+
+GUI.c/GUI.h: Debugging files.
+------------------------------------------------------------------------
+r43 | ediall02 | 2014-12-28 13:24:13 +0100 (dim. 28 déc. 2014) | 1 ligne
+
+GUI.c/GUI.h: Renamed function GUI_actualise() ->  GUI_refresh().
+------------------------------------------------------------------------
+r42 | ediall02 | 2014-12-28 04:48:05 +0100 (dim. 28 déc. 2014) | 2 lignes
+
+GUI.c/GUI.h: Debugging files and defining functions previously declared.
+
+------------------------------------------------------------------------
+r41 | ediall02 | 2014-12-28 03:44:28 +0100 (dim. 28 déc. 2014) | 1 ligne
+
+GUI.h: Addition of constants for the different positions.
+------------------------------------------------------------------------
+r40 | ediall02 | 2014-12-27 18:46:24 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+GUI.c : Added a structure Input for handling the mouse.
+------------------------------------------------------------------------
+r39 | cnoel | 2014-12-27 18:13:00 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Question cycle working correctly.
+------------------------------------------------------------------------
+r38 | ediall02 | 2014-12-27 18:10:06 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+GUI.h: Creation of the structure GUI and ScreenType and definition of functions' prototype.
+------------------------------------------------------------------------
+r37 | ediall02 | 2014-12-27 17:28:49 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+GUI.h : Debugging.
+------------------------------------------------------------------------
+r36 | ediall02 | 2014-12-27 17:28:24 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+GUI.h : Deletion of Option menu
+------------------------------------------------------------------------
+r35 | ediall02 | 2014-12-27 17:19:58 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Addition of files GUI.c and GUI.h and Edition of file GUI.h.
+------------------------------------------------------------------------
+r34 | cnoel | 2014-12-27 17:10:10 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Stream_getInteger() debuggued.
+------------------------------------------------------------------------
+r33 | cnoel | 2014-12-27 17:00:26 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Questions correctly added to the QuestionArray, no memory corruption in case of failure.
+------------------------------------------------------------------------
+r32 | cnoel | 2014-12-27 16:18:34 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+String.c building.
+------------------------------------------------------------------------
+r31 | cnoel | 2014-12-27 16:16:07 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Stream.c building.
+------------------------------------------------------------------------
+r30 | cnoel | 2014-12-27 16:15:19 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Character.c building.
+------------------------------------------------------------------------
+r29 | cnoel | 2014-12-27 16:12:07 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Question.c building.
+------------------------------------------------------------------------
+r28 | cnoel | 2014-12-27 16:08:31 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Population.c building.
+------------------------------------------------------------------------
+r27 | cnoel | 2014-12-27 15:54:38 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Suppressing bin/ directory (generated by Makefile).
+------------------------------------------------------------------------
+r26 | cnoel | 2014-12-27 15:53:26 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Adding Stream.c / Stream.h (cause I forgot -_-).
+------------------------------------------------------------------------
+r25 | cnoel | 2014-12-27 15:50:42 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Clean Makefile.
+------------------------------------------------------------------------
+r24 | cnoel | 2014-12-27 14:54:29 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Addition of Stream handling: getting a line from a stream or getting a figure is now possible.
+------------------------------------------------------------------------
+r23 | ediall02 | 2014-12-27 00:21:52 +0100 (sam. 27 déc. 2014) | 1 ligne
+
+Addition of file Main.c and Edition of Makefile.
+------------------------------------------------------------------------
+r22 | ediall02 | 2014-12-26 23:58:54 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+String.c and String.h : Debugging functions.
+------------------------------------------------------------------------
+r21 | cnoel | 2014-12-26 23:10:02 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Addition of Question::alreadyAsked boolean (not used yet, need to see if questions being repeted several times is or not a problem)
+------------------------------------------------------------------------
+r20 | cnoel | 2014-12-26 23:03:24 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Addition of getBestQuestion, that returns the most interesting question in the database.
+------------------------------------------------------------------------
+r19 | cnoel | 2014-12-26 22:52:46 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+The cardinals in each Question are updated everytime a Character is added or removed from the game.
+------------------------------------------------------------------------
+r18 | cnoel | 2014-12-26 22:34:23 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Question.c / Question.h: Represents a question that might be asked by the program to the player.
+------------------------------------------------------------------------
+r17 | cnoel | 2014-12-26 21:53:44 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Little corrections concerning String and Population list manipulations.
+------------------------------------------------------------------------
+r16 | cnoel | 2014-12-26 21:04:43 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Finally, Population does not really need to be an ordered list: consequently using a single-linked list + addition of the updating function.
+------------------------------------------------------------------------
+r15 | ediall02 | 2014-12-26 20:53:58 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+String.c : Debugging of String_append.
+------------------------------------------------------------------------
+r14 | cnoel | 2014-12-26 19:57:16 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Addition of String_initialize (initializes an empty string) and String_extend (raises the size of string->str buffer) (try again...).
+------------------------------------------------------------------------
+r13 | ediall02 | 2014-12-26 19:51:20 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+String.h : Addition of documentation.
+------------------------------------------------------------------------
+r12 | ediall02 | 2014-12-26 19:44:55 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Addition of function String_parseInt and Edition of file String.h
+------------------------------------------------------------------------
+r11 | cnoel | 2014-12-26 19:36:24 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Using a double-linked list to represent the Characters in a Population.
+------------------------------------------------------------------------
+r10 | ediall02 | 2014-12-26 19:13:26 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Debugged function String_create and added function String_compare
+------------------------------------------------------------------------
+r9 | ediall02 | 2014-12-26 19:09:01 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Debugged function String_create and added function String_append
+------------------------------------------------------------------------
+r8 | ediall02 | 2014-12-26 18:55:42 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Debugged function newString, and renamed to String_create
+------------------------------------------------------------------------
+r7 | cnoel | 2014-12-26 18:17:34 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+A character is now evaluated regarding the rest of the population.
+------------------------------------------------------------------------
+r6 | cnoel | 2014-12-26 18:11:53 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Population.h / Population.c: used to represent a population of Characters.
+------------------------------------------------------------------------
+r5 | cnoel | 2014-12-26 17:33:26 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Checks that the values entered as answers are between 0 and 5.
+------------------------------------------------------------------------
+r4 | cnoel | 2014-12-26 17:30:33 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Addition of files Character.c and Character.h: used to represent a character from the database (name + answers to the questions).
+------------------------------------------------------------------------
+r3 | ediall02 | 2014-12-26 17:21:13 +0100 (ven. 26 déc. 2014) | 1 ligne
+
+Creation of the String strucure, and adding allocation and freeing functions of a String object.
+------------------------------------------------------------------------
+r2 | ediall02 | 2014-12-24 03:40:07 +0100 (mer. 24 déc. 2014) | 1 ligne
+
+Adding files String.c and String.h
+------------------------------------------------------------------------
+r1 | cnoel | 2014-10-10 16:52:02 +0200 (ven. 10 oct. 2014) | 1 ligne
+
+Creation of the arborescence.
+------------------------------------------------------------------------
